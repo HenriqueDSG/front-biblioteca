@@ -1,0 +1,12 @@
+.spanNotificacao {
+    /* font-family: Inter; */
+    color: whitesmoke;
+    font-weight: 600;
+    margin-top: -5px;
+    margin-right: 5px;
+}
+
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation6.MuiAlert-root.MuiAlert-filledSuccess.MuiAlert-filled.css-2zk5iu-MuiPaper-root-MuiAlert-root{
+    display: flex !important;
+    align-items: center !important;
+}

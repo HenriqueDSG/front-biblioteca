@@ -1,0 +1,44 @@
+.text {
+    width: 250px;
+    margin: 0 0 10px !important;
+}
+
+.textDate {
+    width: 250px;
+    margin: 0 0 0px !important;
+}
+
+.modalDiv {
+    margin: 10px 0px 20px;
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+}
+
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation8.MuiPopover-paper.MuiMenu-paper.MuiMenu-paper.css-3dzjca-MuiPaper-root-MuiPopover-paper-MuiMenu-paper {
+    z-index: 9999 !important;
+}
+
+.MuiInputBase-input.MuiOutlinedInput-input.MuiInputBase-inputAdornedEnd.css-nxo287-MuiInputBase-input-MuiOutlinedInput-input {
+    padding: 8px !important;
+}
+
+.MuiOutlinedInput-notchedOutline.css-1d3z3hw-MuiOutlinedInput-notchedOutline {
+    /* border: 0 0 2px 0 solid rgba(0, 0, 0, 0.23) !important; */
+
+    border-top: 0px !important;
+    border-left: 0px !important;
+    border-right: 0px !important;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.42) !important;
+    border-radius: 0px !important;
+}
+
+.MuiOutlinedInput-notchedOutline.css-1d3z3hw-MuiOutlinedInput-notchedOutline:hover {
+    /* border: 0 0 2px 0 solid rgba(0, 0, 0, 0.23) !important; */
+
+    border-top: 0px !important;
+    border-left: 0px !important;
+    border-right: 0px !important;
+    border-bottom: 1px solid black !important;
+    border-radius: 0px !important;
+}
